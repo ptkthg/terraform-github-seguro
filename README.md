@@ -1,5 +1,7 @@
 # Repositórios do GitHub protegidos com Terraform
 
+[![Terraform](https://github.com/ptkthg/terraform-github-seguro/actions/workflows/terraform.yml/badge.svg)](https://github.com/ptkthg/terraform-github-seguro/actions/workflows/terraform.yml)
+
 Projeto de portfólio de security engineering de um analista de DFIR: transforma
 decisões de segurança em configurações reproduzíveis e testáveis. Um mapa na raiz
 cria vários repositórios pelo módulo `repositorio-seguro`, com proteção do histórico,

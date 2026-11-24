@@ -1,0 +1,12 @@
+github_owner = "seu-usuario"
+
+repositorios = {
+  laboratorio-publico = {
+    descricao = "Laboratório público de security engineering"
+    topicos   = ["terraform", "security"]
+  }
+  laboratorio-privado = {
+    descricao    = "Laboratório privado de segurança"
+    visibilidade = "private"
+  }
+}
